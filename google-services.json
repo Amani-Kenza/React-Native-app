@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590522442082",
+    "project_id": "teak-banner-407420",
+    "storage_bucket": "teak-banner-407420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590522442082:android:d89a32d184d74499a78c3b",
+        "android_client_info": {
+          "package_name": "com.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWiI_ajA3G0AthAMTfiGfjvkyLDT-UC9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
